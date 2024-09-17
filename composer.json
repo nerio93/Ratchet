@@ -32,7 +32,7 @@
       , "react/event-loop": ">=0.4"
       , "guzzlehttp/psr7": "^1.7|^2.0"
       , "symfony/http-foundation": "^7.0"
-      , "symfony/routing": "^7.0"
+      , "symfony/routing": "^v7.1.4"
     }
   , "require-dev": {
         "phpunit/phpunit": "~11.3.0"
